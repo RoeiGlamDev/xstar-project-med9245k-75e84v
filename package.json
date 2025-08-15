@@ -1,0 +1,42 @@
+{
+  "name": "luxury-fashiontv-cosmetics",
+  "version": "1.0.0",
+  "description": "A high-end luxury cosmetics website for luxury FashionTV cosmetics, focusing on the latest trends in fashion and beauty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "fashion",
+    "luxury",
+    "cosmetics",
+    "beauty",
+    "luxury FashionTV cosmetics"
+  ],
+  "author": "luxury FashionTV cosmetics",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "jest": "^26.6.0",
+    "react-router-dom": "^6.20.0",
+    "axios": "^0.21.1",
+    "sass": "^1.32.0",
+    "next": "^14.2.5",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "autoprefixer": "^10.4.19"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  },
+  "private": true
+}
